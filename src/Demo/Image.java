@@ -29,6 +29,6 @@ public class Image {
 		Thread.sleep(7000);
 		driver.findElement(By.id("login_Layer")).click();
 		System.out.println("Login image is clicked");
-		
-	}
+		System.out.println("Git Demo");	
+		}
 }
