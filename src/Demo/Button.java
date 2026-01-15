@@ -33,6 +33,9 @@ submitButton.click();
 JavascriptExecutor jse = (JavascriptExecutor)driver;
 jse.executeScript("window.scrollBy(0,-600)");
 
+
+System.out.println("Git Command");
+
 	}
 
 }

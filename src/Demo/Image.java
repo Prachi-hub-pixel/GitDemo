@@ -30,5 +30,7 @@ public class Image {
 		driver.findElement(By.id("login_Layer")).click();
 		System.out.println("Login image is clicked");
 		System.out.println("Git Demo");	
+		System.out.println("Git Demo part 1");	
+		System.out.println("Git Demo part 2");	
 		}
 }
